@@ -1,5 +1,7 @@
 # Cartão Pessoal em NPX - Gabriel Araujo :floppy_disk:
 
+![demo](https://i.imgur.com/tXlm5S5.png)
+
 Desenvolvimento de um package que simula um cartão pessoal. O exemplo desenvolvido aqui foi baseado 
 no repositório do **[Tierney Cyren](https://twitter.com/bitandbang)**
 
